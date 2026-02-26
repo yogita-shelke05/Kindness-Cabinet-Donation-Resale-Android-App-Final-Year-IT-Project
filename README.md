@@ -5,7 +5,6 @@
 
 ## 🌍 About the Project
 *Kindness Cabinet* is a *digital donation & resale platform* that enables users to share, donate, or resell unused items such as clothes, books, gadgets, toys, furniture, and household goods.
-
 - ♻ Promotes sustainability by reducing waste and encouraging eco-friendly reuse
 - 🤝 Connects donors, buyers & underprivileged communities through a simple mobile app
 - 📱 Features item listing, in-app chat, order history, secure donations, PHP + MySQL backend
@@ -30,7 +29,6 @@
 - 🌐 *Location-Based Services* – Google Maps API for nearby items & donors
 - 🔒 *Security Features* – Encrypted login, SQL injection prevention, session handling
 - 🌱 *Eco-Friendly Digital Community* – Encourages reuse & reduces environmental impact
-
 <hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 🎯 Ideal For
