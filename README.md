@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Completed-success"/>
 </p>
 
-
 ## 📘 About the Project
 
 The **Kindness Cabinet – Donation & Resale App** is a **real-world mobile application** developed as a  
@@ -33,8 +32,6 @@ The project focuses on **sustainability, social responsibility, and digital incl
 
 💡 Built to demonstrate **real-life Android + PHP + MySQL application development** with social impact.
 
----
-
 ## 🔧 Key Features
 
 | Feature | Description |
@@ -52,7 +49,7 @@ The project focuses on **sustainability, social responsibility, and digital incl
 | 🌐 Location-Based Services | Google Maps API integration |
 | 🔒 Security Features | OTP, encrypted login, SQL injection prevention |
 
----
+
 
 ## 🎯 Ideal For
 
